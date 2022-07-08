@@ -1,0 +1,8 @@
+print('======== Desafio 2 ========')
+print('Qual o dia em que você nasceu? ')
+dia=input('Dia: ')
+print('Qual o mês em que você nasceu? ')
+mes=input('Mês: ')
+print('Qual o ano em que você nasceu? ')
+ano=input('Ano: ')
+print('Então você nasceu no dia',dia,'de',mes,'de',ano,',','correto?')

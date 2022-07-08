@@ -1,0 +1,5 @@
+Link do vídeo para instalar Jupyter:
+https://www.youtube.com/watch?v=_eK0z5QbpKA&t=7s
+
+Rodar Código Automaticamente:
+https://www.youtube.com/watch?v=SxEjHAlCqmo&t=0s
